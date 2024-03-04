@@ -1,0 +1,24 @@
+.card{
+  border: 1px solid rgb(59, 166, 199);
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px rgb(60, 129, 207);
+  padding: 20px;
+  display:inline-block;
+  margin: 10px;
+  text-align:center;
+  max-width: 250px;
+  
+}
+.pic{
+  border-radius: 50%;
+  height:200px;
+}
+.card .description{
+  font-family: Arial, sans-serif;
+  margin:0;
+}
+.navigation{
+  background-color: hsl(194, 51%, 51%);
+  width: 100%;
+  display: inline-block;
+}
