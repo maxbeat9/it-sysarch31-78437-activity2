@@ -7,28 +7,28 @@ const cardDetails = [
   {
     image: profilepictures,
     name: "Finn ",
-    description: "I program cool stuffs",
+    description: "Email: Finn@gmail.com",
   },
   {
     image: jakethedog,
     name: "Jake ",
-    description: "I love sandwiches",
+    description: "Email: Jake@gmail.com",
   },
   {
     image: gumball,
     name: "Gumball",
-    description: "I love potatoes",
+    description: "Email: Gumball@gmail.com",
   },
   {
     image: darwin,
     name: "Darwin",
-    description: "Fish are my best friends",
+    description: "Email: Darwin@gmail.com",
   },
   
   {
     image: mrbean,
     name: "Mr. Bean",
-    description: "Meet Teddy",
+    description: "Email: Bean@gmail.com",
   },
 ];
 
